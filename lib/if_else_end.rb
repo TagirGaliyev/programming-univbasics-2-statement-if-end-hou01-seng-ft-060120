@@ -5,3 +5,4 @@ if(is_even)
   puts "Even!"
 else
   puts "Odd!"
+end
